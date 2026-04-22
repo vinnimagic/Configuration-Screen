@@ -8,4 +8,5 @@ Seleção de pagamento (Radio Buttons)
 Ajuste de escala (Slider)
 Diálogo de confirmação (AlertDialog)
 Captura de Tela
-![Minha Tela de Configurações]Captura de tela 2026-04-18 224330
+<img width="1399" height="1015" alt="image" src="https://github.com/user-attachments/assets/915075f5-228c-49f0-9b01-1d47d9bf7e45" />
+
